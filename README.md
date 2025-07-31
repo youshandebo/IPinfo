@@ -13,7 +13,7 @@
 
 ## 使用前准备
 
-1. 确保您的Ubuntu VPS或者电脑上已安装Python 3和pip
+1. 确保您的Linux VPS或者电脑上已安装Python 3和pip
 
    ```bash
    sudo apt update
